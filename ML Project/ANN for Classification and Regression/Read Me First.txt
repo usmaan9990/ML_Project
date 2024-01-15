@@ -1,0 +1,7 @@
+I achieved my first and second objective using ANN.
+So in this python file i have build basic ANN models to do classification and regression. 
+
+Tensorflow, Keras
+
+Dataset = This is cleaned data set I cleaned this in my main python file.(Data Visualization, Classification, Regression and Clustering code.ipynb)
+
